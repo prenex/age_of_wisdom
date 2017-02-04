@@ -4,7 +4,12 @@ Tricky age of empires I expansion campaigns - all maps are playable as multiplay
 Requirements
 ============
 
-These maps and campaigns are made with the Rise of Rome expansion so you need the expansion in order to play these.
+These maps and campaigns are made with AOE: Gold so you need the Rise of Rome expansion in order to play these I think...
+
+Installation
+============
+
+Copy the contents of the campaign and scenario directories here into the corresponding ones in your Age1 installation folder. If they are in subdirectories, of course you need to put there - sorry for not being exact, but just look at the file types and put it near the same file types... it is easy...
 
 Gameplay
 ========
